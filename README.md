@@ -322,8 +322,8 @@ Item # | Description | Completed
 4d | What does `log` do? | 
 5a | 2nd Favorite emoji | 👌
 5b | Link to `commit #2 from Github Desktop` |
-6a | Full path to your working directory |
-6b | Link to `commit #3 from CLI` |
+6a | Full path to your working directory | /c/Users/nam25/Sites/learn-git-milestones
+6b | Link to `commit #3 from CLI` | 
 7 | 3rd Favorite emoji | 😁
 8 | Link to `commit #4 from VS Code` | 
 9a | Link to `first-website` github.com repo page | [First Website](https://github.com/namdao2508/first-website)
