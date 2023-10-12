@@ -122,6 +122,7 @@ Markdown is a lightweight markup language for creating rich text.
 - Files use the `.md` extension and can be edited with any plain text editor (e.g. VS Code).
 - Preview using the VS Code or the [Markdown Viewer](https://chrome.google.com/webstore/detail/markdown-viewer/ckkdlimhmcjmikdlpkmbgfkaikojcbjk/related?hl=en) 
 
+## Markdown
 Markdown | HTML | Rendered Output
 --- | --- | ---
 `[link](https://davidson.edu)` | `<a href="https://davidson.edu">link</a>` | [link](https://davidson.edu)
@@ -317,7 +318,7 @@ Item # | Description | Completed
 --- | --- | ---
 4a | 1st Favorite emoji | 👍
 4b | Link to `commit #1 from Github.com` | https://github.com/namdao2508/learn-git-milestones/commit/b11cf838e2886364aa1dcb82e99aa45e56bac04e
-4c | Link to markdown tables docs | [markdown](#markdown)
+4c | Link to markdown tables docs | [Markdown](#markdown)
 4d | What does `log` do? | 
 5a | 2nd Favorite emoji |
 5b | Link to `commit #2 from Github Desktop` |
