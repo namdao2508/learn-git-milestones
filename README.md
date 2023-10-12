@@ -321,11 +321,11 @@ Item # | Description | Completed
 4c | Link to markdown tables docs | [Markdown](#markdown)
 4d | What does `log` do? | 
 5a | 2nd Favorite emoji | 👌
-5b | Link to `commit #2 from Github Desktop` |
+5b | Link to `commit #2 from Github Desktop` | https://github.com/omundy/learn-git-milestones/commit/58b78f0766788872ede864407c4af200dad82f0e
 6a | Full path to your working directory | /c/Users/nam25/Sites/learn-git-milestones
-6b | Link to `commit #3 from CLI` | 
+6b | Link to `commit #3 from CLI` | https://github.com/omundy/learn-git-milestones/commit/adc19a48c52477708170fccaa5f8ac1fb7d81276
 7 | 3rd Favorite emoji | 😁
-8 | Link to `commit #4 from VS Code` | 
+8 | Link to `commit #4 from VS Code` | https://github.com/omundy/learn-git-milestones/commit/648f9877fbbf351cc7a6612c3f318ee335dc6af2
 9a | Link to `first-website` github.com repo page | [First Website](https://github.com/namdao2508/first-website)
 9a | Link to `first-website` github.io "project site" | [Project Site](https://namdao2508.github.io/first-website/)
 
