@@ -319,7 +319,7 @@ Item # | Description | Completed
 4a | 1st Favorite emoji | 👍
 4b | Link to `commit #1 from Github.com` | https://github.com/namdao2508/learn-git-milestones/commit/b11cf838e2886364aa1dcb82e99aa45e56bac04e
 4c | Link to markdown tables docs | [Markdown](#markdown)
-4d | What does `log` do? | 
+4d | What does `log` do? | Log will display a list of all the commits in the repository, with information such as the date and who made the commits.
 5a | 2nd Favorite emoji | 👌
 5b | Link to `commit #2 from Github Desktop` | https://github.com/omundy/learn-git-milestones/commit/58b78f0766788872ede864407c4af200dad82f0e
 6a | Full path to your working directory | /c/Users/nam25/Sites/learn-git-milestones
