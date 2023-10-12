@@ -320,14 +320,14 @@ Item # | Description | Completed
 4b | Link to `commit #1 from Github.com` | https://github.com/namdao2508/learn-git-milestones/commit/b11cf838e2886364aa1dcb82e99aa45e56bac04e
 4c | Link to markdown tables docs | [Markdown](#markdown)
 4d | What does `log` do? | 
-5a | 2nd Favorite emoji |
+5a | 2nd Favorite emoji | 👌
 5b | Link to `commit #2 from Github Desktop` |
 6a | Full path to your working directory |
 6b | Link to `commit #3 from CLI` |
-7 | 3rd Favorite emoji |
-8 | Link to `commit #4 from VS Code` |
-9a | Link to `first-website` github.com repo page |
-9a | Link to `first-website` github.io "project site" |
+7 | 3rd Favorite emoji | 😁
+8 | Link to `commit #4 from VS Code` | 
+9a | Link to `first-website` github.com repo page | [First Website](https://github.com/namdao2508/first-website)
+9a | Link to `first-website` github.io "project site" | [Project Site](https://namdao2508.github.io/first-website/)
 
 
 
